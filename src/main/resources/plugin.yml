@@ -1,0 +1,9 @@
+name: MultiServerCommands
+author: Pijok
+version: 1.0.0
+api-version: 1.16
+main: pl.pijok.multiservercommands
+commands:
+  multiservercommand:
+    usage: /multiservercommand
+    aliases: [msc]
