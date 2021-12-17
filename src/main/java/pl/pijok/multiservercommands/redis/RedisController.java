@@ -46,7 +46,7 @@ public class RedisController {
                             });
                         }
                     }
-                });
+                }, channel);
             }
         }).start();
     }
